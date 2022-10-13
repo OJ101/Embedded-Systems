@@ -33,7 +33,7 @@ int main()
 
     // Char
     char character;
-    character = 'A';
+    character = 'C';
     printf("The character %c has the ASCII code %d\n", character, character);
 
     // Short
